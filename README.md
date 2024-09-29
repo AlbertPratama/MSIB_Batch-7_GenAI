@@ -1,1 +1,1 @@
-# MSIB_Gen-7_GenAI
+# MSIB_Batch-7_GenAI
